@@ -45,5 +45,6 @@ app:
 
   version: "e526fed3-518a-43f8-85df-ce6652f46c65"
 # probes
+#build_trigger
 # dynamic scaling
 # scaling to 0
