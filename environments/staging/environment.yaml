@@ -44,5 +44,6 @@ app:
   #    region: us-east-1
   version: ""
 # probes
+#build_trigger
 # dynamic scaling
 # scaling to 0
